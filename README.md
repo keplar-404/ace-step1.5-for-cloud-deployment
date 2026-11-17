@@ -1,6 +1,7 @@
 # ACE-Step 1.5 - Music Generation
 
 AI-powered music generation from text descriptions. Generate full songs with vocals, instrumentals, covers, and more.
+### All credit goes to the main repo [ace-step-1.5](https://github.com/ace-step/ACE-Step-1.5.git). This repo is for easily deploy the model on the cloud for production usages.
 
 ## 🎵 What Can It Do?
 
